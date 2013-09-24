@@ -2,7 +2,7 @@
   "name" : "Bulk Delete Builds except the given build number",
   "comment" : "For a given job and a given build numnber, delete all build except the user provided one.",
   "parameters" : [ 'jobName', 'buildNumber' ],
-  "core": "1.410",
+  "core": "1.409",
   "authors" : [
      { name : "Arun Sangal - Andrew Bayer's Idea" }
   ]
